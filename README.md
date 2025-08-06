@@ -17,7 +17,7 @@
           self.current_focus = ["Web Security", "API Testing", "Cloud Security"]
           
       def say_hello(self):
-          print("Thanks for visiting! Let's make the web safer together 🛡️")
+          print("Thanks for visiting! Let's make the web safer together ")
   
   me = PenTester()
   me.say_hello()
@@ -26,7 +26,7 @@
 
 ---
 
-## 🎯 **Current Focus**
+##  **Current Focus**
 
 ```bash
 $ whoami
@@ -39,7 +39,7 @@ $ cat /current_missions
 > 🎓 Contributing to open-source security projects
 ```
 
-## 🛠️ **Security Arsenal**
+##  **Security Arsenal**
 
 ### **Web Application Testing**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -67,7 +67,7 @@ $ cat /current_missions
 
 ---
 
-## 🏆 **Security Achievements**
+##  **Security Achievements**
 
 ```yaml
 bug_bounties:
@@ -89,20 +89,20 @@ certifications:
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🔍 **Recon Automation** | Custom reconnaissance framework for bug bounty | Python, Bash, APIs | 🚧 In Progress |
-| 🛡️ **Security Checklist** | Automated security validation for CI/CD | Python, Docker | ✅ Active |
-| 📝 **Pentest Reports** | Template generator for pentest reports | Python, Markdown | 📋 Planning |
-| 🎯 **Vuln Scanner** | Lightweight vulnerability scanner | Go, Nuclei | 🚧 In Progress |
+|  **Recon Automation** | Custom reconnaissance framework for bug bounty | Python, Bash, APIs | 🚧 In Progress |
+|  **Security Checklist** | Automated security validation for CI/CD | Python, Docker | ✅ Active |
+|  **Pentest Reports** | Template generator for pentest reports | Python, Markdown | 📋 Planning |
+|  **Vuln Scanner** | Lightweight vulnerability scanner | Go, Nuclei | 🚧 In Progress |
 
 ---
 
-## 💼 **Services Available**
+##  **Services Available**
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🥉 **Express Security Check**
+###  **Express Security Check**
 - OWASP Top 5
 - 24-48h delivery  
 - Quick wins report
@@ -111,7 +111,7 @@ certifications:
 </td>
 <td width="33%" valign="top">
 
-### 🥈 **Standard Pentest**
+###  **Standard Pentest**
 - OWASP Top 10
 - API Testing
 - Detailed report
@@ -120,7 +120,7 @@ certifications:
 </td>
 <td width="33%" valign="top">
 
-### 🥇 **Advanced Pentest**
+###  **Advanced Pentest**
 - Full infrastructure
 - Code review
 - Training included
@@ -158,7 +158,7 @@ graph LR
 
 ---
 
-## 📚 **Latest Security Research**
+##  **Latest Security Research**
 
 <!-- This section can be automated with GitHub Actions -->
 - 🔬 **Research:** Cloud Misconfigurations in AWS S3 Buckets
@@ -168,15 +168,16 @@ graph LR
 
 ---
 
-## 🤝 **Connect & Collaborate**
+##  **Connect & Collaborate**
 
 <div align="center">
 
-### **💬 Let's Talk Security**
+### ** Let's Talk Security**
 
 Looking for a pentester? Need security consultation? Want to collaborate on security research?
 
-📧 **Contact:** [Send me a message](mailto:)  
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kless14)
+  
 💼 **Hire me:** Available for freelance projects  
 🐛 **Bug Bounty:** Active on YesWeHack & Yogosha  
 
