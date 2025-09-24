@@ -1,4 +1,4 @@
-# 🔐 Security Researcher | Penetration Tester
+#  Security Researcher | Penetration Tester
 
 <div align="center">
   
@@ -85,14 +85,14 @@ certifications:
   completed: ["Security fundamentals"]
 ```
 
-## 📊 **Current Projects**
+##  **Current Projects**
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-|  **Recon Automation** | Custom reconnaissance framework for bug bounty | Python, Bash, APIs | 🚧 In Progress |
-|  **Security Checklist** | Automated security validation for CI/CD | Python, Docker | ✅ Active |
-|  **Pentest Reports** | Template generator for pentest reports | Python, Markdown | 📋 Planning |
-|  **Vuln Scanner** | Lightweight vulnerability scanner | Go, Nuclei | 🚧 In Progress |
+|  **Recon Automation** | Custom reconnaissance framework for bug bounty | Python, Bash, APIs |  In Progress |
+|  **Security Checklist** | Automated security validation for CI/CD | Python, Docker |  Active |
+|  **Pentest Reports** | Template generator for pentest reports | Python, Markdown |  Planning |
+|  **Vuln Scanner** | Lightweight vulnerability scanner | Go, Nuclei |  In Progress |
 
 ---
 
@@ -144,7 +144,7 @@ certifications:
 
 ---
 
-## 🎯 **Vulnerability Research Focus**
+##  **Vulnerability Research Focus**
 
 ```mermaid
 graph LR
@@ -161,10 +161,10 @@ graph LR
 ##  **Latest Security Research**
 
 <!-- This section can be automated with GitHub Actions -->
-- 🔬 **Research:** Cloud Misconfigurations in AWS S3 Buckets
-- 📝 **Article:** IDOR Vulnerabilities in Modern APIs
-- 🛠️ **Tool Release:** Automated Subdomain Takeover Scanner
-- 💡 **CVE Research:** Analysis of recent critical vulnerabilities
+-  **Research:** Cloud Misconfigurations in AWS S3 Buckets
+-  **Article:** IDOR Vulnerabilities in Modern APIs
+-  **Tool Release:** Automated Subdomain Takeover Scanner
+-  **CVE Research:** Analysis of recent critical vulnerabilities
 
 ---
 
@@ -178,14 +178,14 @@ Looking for a pentester? Need security consultation? Want to collaborate on secu
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kless14)
   
-💼 **Hire me:** Available for freelance projects  
-🐛 **Bug Bounty:** Active on YesWeHack & Yogosha  
+ **Hire me:** Available for freelance projects  
+ **Bug Bounty:** Active on YesWeHack & Yogosha  
 
 </div>
 
 ---
 
-## 🔥 **Security Philosophy**
+##  **Security Philosophy**
 
 > "The best way to secure a system is to think like an attacker, but act like a defender."
 
@@ -205,7 +205,7 @@ while (true) {
   ### **Visitor Counter**
   ![Visitor Count](https://profile-counter.glitch.me/kless14/count.svg)
   
-  ⚡ **Fun fact:** I use Vim for everything, even this README
+   **Fun fact:** I use Vim for everything, even this README
   
   ---
   
