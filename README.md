@@ -33,10 +33,10 @@ $ whoami
 > Freelance Pentester hunting bugs and securing applications
 
 $ cat /current_missions
-> 🔍 Active on bug bounty programs
-> 🛠️ Building security automation tools  
-> 📚 Researching cloud misconfigurations
-> 🎓 Contributing to open-source security projects
+>  Active on bug bounty programs
+>  Building security automation tools  
+>  Researching cloud misconfigurations
+>  Contributing to open-source security projects
 ```
 
 ##  **Security Arsenal**
