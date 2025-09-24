@@ -1,4 +1,4 @@
-# Prof. kless14 | Cybersecurity Research & Education
+# kless14 | Cybersecurity Research & Education
 
 <div align="center">
 
