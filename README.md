@@ -7,8 +7,6 @@
 [![Teaching](https://img.shields.io/badge/Teaching-Cybersecurity-green?style=flat-square)](https://github.com/kless14)
 
 
-**[CV](https://github.com/kless14/academic-cv)** • **[Publications](https://github.com/kless14/publications)** • **[Course Materials](https://github.com/kless14/cybersec-courses)** • **[Research Lab](https://github.com/kless14/security-research-lab)**
-
 *Last updated: September 2025*
 
 </div>
